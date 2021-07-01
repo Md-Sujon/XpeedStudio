@@ -1,0 +1,24 @@
+#Checkbox {
+  
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(0, 0, 0);
+   margin-left: 60px;
+    width: 90%;
+  }
+  
+  #Checkbox td, #Checkbox th {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px;
+  }
+  #Checkbox tr:nth-child(even){background-color: #ebeaea;}
+
+
+
+
+  #Checkbox th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #45abff;
+    color: white;
+  }
